@@ -27,7 +27,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Технологии, с которыми работал:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Используемые инструменты:
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
@@ -72,7 +72,7 @@
 
 --- -->
 
-### 💻 Codewars:
+### 💻 Профиль Codewars:
 
 ![codewars](https://www.codewars.com/users/Pashquette/badges/large)
 
