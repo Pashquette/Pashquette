@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я - начинающий frontend-разработчик! Около года самостоятельно изучаю веб-разработку. :) Здесь будут мои попытки самостоятельно что-то написать и какие-то интересные учебные проекты. Также нахожусь в поисках любой практики! :)
+Я - начинающий frontend-разработчик! Около года самостоятельно изучаю веб-разработку. :) Здесь будут мои попытки самостоятельно что-то написать и какие-то интересные учебные проекты. В данный момент изучаю библиотеку React. Также нахожусь в поисках любой практики! :)
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-pashquette-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pashquette) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:pashquette@gmail.com)
 
