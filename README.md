@@ -17,7 +17,7 @@
     <a href="http://instagram.com/pashquette" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40" height="40" alt="instagram" />
     </a>
-    <a href="https://t.me/pashquette_frontend" target="_blank">
+    <a href="https://t.me/pashquette" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://vk.com/jrmarty" target="_blank">
