@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я - фронтенд-разработчик с опытом создания SPA-приложений с использованием React, Redux, ES6+, HTML, CSS.На полученных знаниях не останавливаюсь, на данный момент изучаю TypeScript, также в ближайших планах изучение Next JS.
+Я - фронтенд-разработчик с опытом создания SPA-приложений с использованием TS, React, Redux, ES6+, HTML, CSS.На полученных знаниях не останавливаюсь, на данный момент изучаю методологию FSD, также в ближайших планах изучение Next JS.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-pashquette-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pashquette) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:pashquette@gmail.com)
 
